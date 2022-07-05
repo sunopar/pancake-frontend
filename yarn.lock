@@ -1905,12 +1905,12 @@
 
 "@binance/mp-components@^1.0.1":
   version "1.0.3"
-  resolved "https://registry.yarnpkg.com/@binance/mp-components/-/mp-components-1.0.3.tgz#1983a8898ba4861843bc92d8e4ca277567760be4"
+  resolved "https://npm-registry.toolsfdg.net/@binance%2fmp-components/-/mp-components-1.0.3.tgz#1983a8898ba4861843bc92d8e4ca277567760be4"
   integrity sha512-/s5QR0Iqutx6ahhYehcppSV4nm3RaZRnmPU8VzJ+U0T1OsGd+ZJzc8zYeuy3gOhptcqHc2OXDPWH76sqU5Td3g==
 
 "@binance/mp-service@^1.0.4":
   version "1.0.11"
-  resolved "https://registry.yarnpkg.com/@binance/mp-service/-/mp-service-1.0.11.tgz#69d24e5d19f02a08ca319be14f88d5133ad53c5a"
+  resolved "https://npm-registry.toolsfdg.net/@binance%2fmp-service/-/mp-service-1.0.11.tgz#69d24e5d19f02a08ca319be14f88d5133ad53c5a"
   integrity sha512-kbq3vfmu55QEVKpq3W+asz2CZLlKOX8/QS6f2flrneY7syYOrbVrs99S3dEfGzqp067LAsk87fYUGeGGT8uH0A==
 
 "@binance/sentry-miniapp@^0.2.1":
